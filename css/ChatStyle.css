@@ -1,0 +1,80 @@
+
+
+#chat{
+  background: #ffffff;
+}
+
+#roomName{
+  padding:0;
+  background: #003580;
+  overflow: hidden;
+  width: 750px;
+  margin: 0px auto 0px;
+  font-size: 80%;
+
+  text-align: center;
+  color: white
+  
+}
+
+#roomMain{
+    padding:0;
+    background: #b1d1ff;
+    overflow: hidden;
+    width: 750px;
+    margin: 0px auto;
+    font-size: 80%;
+  }
+
+.img{
+    width: 5%;
+    height: 5%;
+}
+
+  .You{
+    background: #ffffff;
+    width:fit-content;
+    padding: 1px 10px 1px;
+    border-radius: 5px;
+  }
+
+  .You40{
+    background: #ffffff;
+    width: 78%;
+    word-break: break-all;
+    padding: 1px 10px 1px;
+    border-radius: 5px;
+  }
+
+  .Me{
+    background: #54ff6aa9;
+    width:max-content;
+    padding: 1px 10px 1px;
+    border-radius: 5px;
+  }
+
+  .Me40{
+    background: #54ff6aa9;
+    width: 78%;
+    word-break: break-all;
+    padding: 1px 10px 1px;
+    border-radius: 5px;
+  }
+
+  .info{
+    font-size: 12px;
+    margin-bottom: 0em;
+    margin-top: 0em;
+  }
+
+  .message{
+    font-size: 16px;
+    margin-bottom: 0em;
+    margin-top: 0em;
+    white-space: pre-wrap;
+  }
+
+  .input{
+    display: flex;
+    justify-content: center;
+  }
